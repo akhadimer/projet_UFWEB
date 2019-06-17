@@ -8,7 +8,7 @@ Votre site devra comporter les pages suivantes :
 Présentation simple : nom, prénom, photo, compétences clefs 
 Présentation détaillée (un CV numérique interactif) : expériences professionnelles, compétences, rubriques libres 
 Réalisations/Projets 
-Page de contact permettant aux visiteurs de vous contacter par le biais d’un formulaire 
+Page de contact permettant aux visiteurs de vous contacter par le biais d’un formulaire.
 
 ## Rendu
 
