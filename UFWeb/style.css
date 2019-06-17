@@ -1,0 +1,72 @@
+body {
+  background: url(images/bg.png);
+}
+
+#cadre_pres {
+  background: url(images/BG-orange.png);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+#ecole {
+  border-right: medium solid rgb(99, 94, 94)
+}
+
+.titre_centre_interet {
+  font-size: 25px;
+}
+
+.titre_compétences {
+  font-size: 25px;
+}
+
+#cadre_côté_gauche {
+  background: url(images/BG-orange.png);
+  background-size: cover;
+}
+
+#cadre_côté_droit {
+  background: url(images/BG-orange.png);
+  background-size: cover;
+}
+
+#parcours_sco {
+  background-color:white;
+}
+
+#titre_compétence {
+  font-size: 15px;
+}
+
+hr {
+  border: none;
+  border-top: 3px double #333;
+  color: #333;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+  width: 70%;
+}
+
+#titre_nom_etablissement {
+  font-size:21px;
+}
+
+#Projets > div {
+  border: thick double black;
+}
+
+#formulaire_contact {
+  background: url(images/BG-vert.png);
+}
+
+#name_admin_page {
+  font-size: 20px;
+}
